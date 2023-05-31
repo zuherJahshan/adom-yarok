@@ -1,0 +1,38 @@
+.JoinGroup {
+    width: 20%;
+}
+
+.btn-join-game {
+    background-color: #87B6A7;
+    border-color: #87B6A7;
+    color: #2E3A47;
+    font-size: large;
+    width: 30%;
+}
+
+.btn-join-game:hover {
+    background-color: #759C89;
+    border-color: #759C89;
+    color: #2E3A47;
+}
+
+.btn-join-game:active {
+    background-color: #759C89;
+    border-color: #759C89;
+    color: #2E3A47;
+}
+
+.form-control:focus {
+    outline: none;
+    box-shadow: 0 0 10px #87B6A7;
+}
+
+.alert {
+    color: #EC7272;
+    font-weight: 150;
+    font-size: large;
+    background-color: transparent;
+    border-color: transparent;
+    text-align: left;
+    padding-left: 0px;
+}  

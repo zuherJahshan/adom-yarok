@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.welcome-title {
+  color: white;
+}
+
+.red-txt {
+  color: #EC7272;
+}
+
+.green-txt {
+  color: #C3FF99;
+}
+
+.App-header {
+  background-color: #2E3A47;
+  /* width:60%; */
+  min-height: 100vh;
+  padding-top: 4rem;
+  /* display: flex; */
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.render-switch-container {
+  display: flex;
+  justify-content: center;
+  /* align-items: stretch; */
+  margin-top: 3rem;
+  height: calc(100vh - 4rem); /* Adjust according to the height of the welcome-title */
+}
